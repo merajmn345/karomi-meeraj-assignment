@@ -27,7 +27,7 @@ class Main
     // Driver method
     public static void main(String args[])
     {
-        String str = "kavya01$$for0kavya03!@!!";
+        String str = "meraj01$$for0meraj03!@!!";
         splitString(str);
     }
 }
