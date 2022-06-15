@@ -1,3 +1,5 @@
+// Q4.create an empty text file, then cut and paste some paragraph(around 10 lines).write a program to find the number of lines in the file and get the odd lines and paste in another text file and name the file as current system date(like :dd-mm-yyyy.txt)."
+
 import datetime
 textFile = open("text-file.txt", "r")
 
